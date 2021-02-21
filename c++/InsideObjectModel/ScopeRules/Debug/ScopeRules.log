@@ -1,0 +1,25 @@
+﻿  main.cpp
+D:\workspace\InsideObjectModel\InsideObjectModel\ScopeRules\ScopeRules.h(15,13): warning C4244: “return”: 从“double”转换到“Type”，可能丢失数据
+          with
+          [
+              Type=int
+          ]
+D:\workspace\InsideObjectModel\InsideObjectModel\ScopeRules\ScopeRules.h(14): message : 在编译 类 模板 成员函数“Type ScopeRules<Type>::type_dependent(void)”时
+          with
+          [
+              Type=int
+          ]
+D:\workspace\InsideObjectModel\InsideObjectModel\ScopeRules\main.cpp(23): message : 查看对正在编译的函数 模板 实例化“Type ScopeRules<Type>::type_dependent(void)”的引用
+          with
+          [
+              Type=int
+          ]
+D:\workspace\InsideObjectModel\InsideObjectModel\ScopeRules\main.cpp(18): message : 查看对正在编译的 类 模板 实例化“ScopeRules<int>”的引用
+D:\workspace\InsideObjectModel\InsideObjectModel\ScopeRules\ScopeRules.h(11,16): warning C4244: “=”: 从“double”转换到“Type”，可能丢失数据
+          with
+          [
+              Type=int
+          ]
+D:\workspace\InsideObjectModel\InsideObjectModel\ScopeRules\ScopeRules.h(10): message : 在编译 类 模板 成员函数“void ScopeRules<int>::invariant(void)”时
+D:\workspace\InsideObjectModel\InsideObjectModel\ScopeRules\main.cpp(21): message : 查看对正在编译的函数 模板 实例化“void ScopeRules<int>::invariant(void)”的引用
+  ScopeRules.vcxproj -> D:\workspace\InsideObjectModel\InsideObjectModel\Debug\ScopeRules.exe

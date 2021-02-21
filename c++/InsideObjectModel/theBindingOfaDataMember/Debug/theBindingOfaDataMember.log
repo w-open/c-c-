@@ -1,0 +1,13 @@
+﻿  theBindingOfaDataMember.cpp
+D:\workspace\InsideObjectModel\InsideObjectModel\theBindingOfaDataMember\theBindingOfaDataMember.cpp(36,48): error C2664: “char *access_order<Point3d,float,float>(data_type1 Point3d::* ,data_type2 Point3d::* )”: 无法将参数 1 从“float *”转换为“data_type1 Point3d::* ”
+          with
+          [
+              data_type1=float,
+              data_type2=float
+          ]
+          and
+          [
+              data_type1=float
+          ]
+D:\workspace\InsideObjectModel\InsideObjectModel\theBindingOfaDataMember\theBindingOfaDataMember.cpp(36,38): message : 没有使该转换得以执行的上下文
+D:\workspace\InsideObjectModel\InsideObjectModel\theBindingOfaDataMember\theBindingOfaDataMember.cpp(23,7): message : 参见“access_order”的声明

@@ -1,0 +1,6 @@
+﻿  virtualInheritance.cpp
+D:\workspace\InsideObjectModel\InsideObjectModel\VirtualInheritance\virtualInheritance.cpp(64,1): warning C4250: “Vertex3d”: 通过域控制继承“Point3d::Point3d::z”
+D:\workspace\InsideObjectModel\InsideObjectModel\VirtualInheritance\virtualInheritance.cpp(37): message : 参见“Point3d::z”的声明
+D:\workspace\InsideObjectModel\InsideObjectModel\VirtualInheritance\virtualInheritance.cpp(64,1): warning C4250: “Vertex3d”: 通过域控制继承“Point3d::Point3d::operator +=”
+D:\workspace\InsideObjectModel\InsideObjectModel\VirtualInheritance\virtualInheritance.cpp(40): message : 参见“Point3d::operator +=”的声明
+  VirtualInheritance.vcxproj -> D:\workspace\InsideObjectModel\InsideObjectModel\Debug\VirtualInheritance.exe
