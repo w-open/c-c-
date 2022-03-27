@@ -1,3 +1,0 @@
-﻿  typeinfo.cpp
-D:\workspace\InsideObjectModel\InsideObjectModel\Type\typeinfo.cpp(9,1): warning C4326: “main”的返回类型应为“int”而非“void”
-  Type.vcxproj -> D:\workspace\InsideObjectModel\InsideObjectModel\Debug\TypeInfo.exe
